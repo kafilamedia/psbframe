@@ -1,12 +1,12 @@
 var applicationVersion = 1;
 const GROUPED_FRAME_IMAGES = [
-    {
-        id: "hari_santri",
-        label: "Hari Santri",
-        images: [
-            "twibbon-hari-santri-template.png",
-        ]
-    },
+    // {
+    //     id: "hari_santri",
+    //     label: "Hari Santri",
+    //     images: [
+    //         "twibbon-hari-santri-template.png",
+    //     ]
+    // },
     {
         id: "student",
         label: "Santri",
