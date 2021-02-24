@@ -1,12 +1,6 @@
 var applicationVersion = 1;
 const GROUPED_FRAME_IMAGES = [
-    // {
-    //     id: "hari_santri",
-    //     label: "Hari Santri",
-    //     images: [
-    //         "twibbon-hari-santri-template.png",
-    //     ]
-    // },
+    
     {
         id: "general",
         label: "Psb",
@@ -14,6 +8,13 @@ const GROUPED_FRAME_IMAGES = [
             "twibbon-psb-2.png"
         ]
     },
+    // {
+    //     id: "hari_santri",
+    //     label: "Hari Santri",
+    //     images: [
+    //         "twibbon-hari-santri-template.png",
+    //     ]
+    // },
 //       {
 //         id: "student",
 //         label: "Santri",
