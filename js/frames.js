@@ -8,6 +8,13 @@ const GROUPED_FRAME_IMAGES = [
     //     ]
     // },
     {
+        id: "general",
+        label: "Psb",
+        images: [
+            "twibbon-psb-2.png"
+        ]
+    },
+      {
         id: "student",
         label: "Santri",
         images: [
