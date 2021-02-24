@@ -14,38 +14,38 @@ const GROUPED_FRAME_IMAGES = [
             "twibbon-psb-2.png"
         ]
     },
-      {
-        id: "student",
-        label: "Santri",
-        images: [
-            "PROUD-STUDENT-1.png",
-            "PROUD-STUDENT-2.png"
-        ]
-    },
-    {
-        id: "teacher",
-        label: "Asatidzah",
-        images: [
-            "PROUD-TEACHER-1.png",
-            "PROUD-TEACHER-2.png"
-        ]
-    },
-    {
-        id: "alumnus",
-        label: "Alumni",
-        images: [
-            "PROUD-ALUMNUS-1.png",
-            "PROUD-ALUMNUS-2.png"
-        ]
-    },
-    {
-        id: "partOf",
-        label: "Wali Santri/Calon Santri",
-        images: [
-            "READY-TO-BE-PART-OF-1.png",
-            "READY-TO-BE-PART-OF-2.png"
-        ]
-    },
+//       {
+//         id: "student",
+//         label: "Santri",
+//         images: [
+//             "PROUD-STUDENT-1.png",
+//             "PROUD-STUDENT-2.png"
+//         ]
+//     },
+//     {
+//         id: "teacher",
+//         label: "Asatidzah",
+//         images: [
+//             "PROUD-TEACHER-1.png",
+//             "PROUD-TEACHER-2.png"
+//         ]
+//     },
+//     {
+//         id: "alumnus",
+//         label: "Alumni",
+//         images: [
+//             "PROUD-ALUMNUS-1.png",
+//             "PROUD-ALUMNUS-2.png"
+//         ]
+//     },
+//     {
+//         id: "partOf",
+//         label: "Wali Santri/Calon Santri",
+//         images: [
+//             "READY-TO-BE-PART-OF-1.png",
+//             "READY-TO-BE-PART-OF-2.png"
+//         ]
+//     },
 ]
 
 function populateFrameCategoriesMenu() {
